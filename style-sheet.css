@@ -1,0 +1,39 @@
+#nav-bar ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 1px;
+    padding: 2px;
+    Height: 20px;
+    width: 100%;
+    background-color: yellow;
+}
+
+#nav-bar li {
+    color: red;
+    display: inline;
+}
+
+body {
+    background-color: rgb(129, 224, 129);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: left
+}
+
+p {
+    text-align: center;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
